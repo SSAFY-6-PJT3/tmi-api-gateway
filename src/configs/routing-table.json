@@ -1,0 +1,18 @@
+{
+  "test": {
+    "$isComplete": false,
+    "$target": "",
+    "$children": {
+      "apis": {
+        "$isComplete": false,
+        "$target": "",
+        "$children": {
+          "test": {
+            "$isComplete": true,
+            "$target": "http://0.0.0.0:5010/test"
+          }
+        }
+      }
+    }
+  }
+}
